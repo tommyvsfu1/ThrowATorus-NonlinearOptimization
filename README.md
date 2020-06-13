@@ -5,4 +5,4 @@ Full Demo Video : https://drive.google.com/file/d/13lnV-dMXdyL9bmnuJarewu0Or9FXZ
 <img src="https://github.com/tommyvsfu1/Torus-Shooting/blob/master/torus_demo.gif" width="80%">
 
 
-![](https://i.imgur.com/KnAPmal.png)
+![](https://i.imgur.com/5JKRsgu.png)
